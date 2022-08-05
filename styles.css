@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.titulo{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.itemMenu{
+    color: black;
+    font-size: 16px;
+}
+    
+
+.carrito{
+    padding-right: 5px;
+}
+
+.botonBuscar{
+    padding-left: 0;
+}
+
+.portada{
+    margin: 0;
+    padding: 0;
+}
+
+.tituloProductos{
+    text-align: center;
+    padding-top: 10px;
+}
+
+.contenedorDeProductos{
+    padding-top: 4vh;
+    display:flex ;
+    justify-content: space-between;
+}
+
+.productoCard{
+    margin: 5px;
+    margin-left:1rem;
+}
+.cover{
+    padding-top: 20px;
+}
+
+.btn-gradient-1 {
+    border-width: 4px;
+    border-style: solid;
+    border-image: linear-gradient(to right, darkblue, darkorchid) 1;
+}
+
+.foot{
+    margin-top: 40vh;
+}
+
+.formCompra{
+    margin: 10px;
+}
+
+#selectorProductos{
+    width: 20rem ;
+    height: 3rem ;
+    font-size: 20px;
+    text-align: center;
+}

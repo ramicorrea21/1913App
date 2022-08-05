@@ -1,0 +1,303 @@
+[
+    {
+        "id": 1,
+        "cantidad": 1,
+        "producto": "iPhone",
+        "title":"IPHONE XR 64GB",
+        "img": "assets/iphone/XR/iphone-xr-64.jpg",
+        "color":"white",
+        "desc":"Procesador: Apple A12 Bionic, Cámara: Unica de 12 Miliamperios, Batería: 2942 mAh.",
+        "precio":"480"
+    },
+    {
+        "id": 2,
+        "cantidad": 1,
+        "producto": "iPhone",
+        "title":"IPHONE XR 128GB",
+        "img": "assets/iphone/XR/iphone-xr-128.jpg",
+        "color":"black",
+        "desc":"Procesador: Apple A12 Bionic, Cámara: Unica de 12 Miliamperios, Batería: 2942 mAh.",
+        "precio":"500"
+    },
+    {
+        "id": 3,
+        "cantidad": 1,
+        "producto": "iPhone",
+        "title":"IPHONE XR 256GB",
+        "img": "assets/iphone/XR/iphone-xr-256.jpg",
+        "color":"gold",
+        "desc":"Procesador: Apple A12 Bionic, Cámara: Unica de 12 Miliamperios, Batería: 2942 mAh.",
+        "precio":"520"
+    },
+    {
+        "id": 4,
+        "cantidad": 1,
+        "producto": "iPhone",
+        "title":"IPHONE 11 64GB",
+        "img": "assets/iphone/11/iphone-11-64.jpg",
+        "color":"black",
+        "desc":"Procesador: Apple A13 Bionic, Cámara: Dual, 12MP+12MP, Batería: 3046 mAh.",
+        "precio":"700"
+    },
+    {
+        "id": 5,
+        "cantidad": 1,
+        "producto": "iPhone",
+        "title":"IPHONE 11 128GB",
+        "img": "assets/iphone/11/iphone-11-128.jpg",
+        "color":"gold",
+        "desc":"Procesador: Apple A13 Bionic, Cámara: Dual, 12MP+12MP, Batería: 3046 mAh.",
+        "precio":"720"
+    },
+    {
+        "id": 6,
+        "cantidad": 1,
+        "producto": "iPhone",
+        "title":"IPHONE 11 256GB",
+        "img": "assets/iphone/11/iphone-11-256.jpg",
+        "color":"silver",
+        "desc":"Procesador: Apple A13 Bionic, Cámara: Dual, 12MP+12MP, Batería: 3046 mAh.",
+        "precio":"740"
+    },
+    {
+        "id": 7,
+        "cantidad": 1,
+        "producto": "iPhone",
+        "title":"IPHONE 13 64GB",
+        "img":"assets/iphone/13/iphone-13-64.jpg",
+        "color":"pink",
+        "desc":"Procesador: Apple A15 Bionic, Cámara: Dual, 12MP+12MP, Bateria: 3.227 mAh.",
+        "precio":"880"
+    },
+    {
+        "id": 8,
+        "cantidad": 1,
+        "producto": "iPhone",
+        "title":"IPHONE 13 128GB",
+        "img":"assets/iphone/13/iphone-13-128.jpg",
+        "color":"white",
+        "desc":"Procesador: Apple A15 Bionic, Cámara: Dual, 12MP+12MP, Bateria: 3.227 mAh.",
+        "precio":"900"
+    },
+    {
+        "id": 9,
+        "cantidad": 1,
+        "producto": "iPhone",
+        "title":"IPHONE 13 256GB",
+        "img":"assets/iphone/13/iphone-13-256.jpg",
+        "color":"blue",
+        "desc":"Procesador: Apple A15 Bionic, Cámara: Dual, 12MP+12MP, Bateria: 3.227 mAh.",
+        "precio":"900"
+    },
+    {
+        "id": 10,
+        "cantidad": 1,
+        "producto": "iPhone",
+        "title":"IPHONE 13 MINI 256GB",
+        "img":"assets/iphone/13/iphone-13-mini-256.jpg",
+        "color":"pink",
+        "desc":"Procesador: Apple A15 Bionic, Cámara: Dual, 12MP+12MP, Bateria: 3.227 mAh.",
+        "precio":"750"
+    }
+    ,
+    {
+        "id": 11,
+        "cantidad": 1,
+        "producto": "iPad",
+        "title":"IPAD AIR 64GB",
+        "img":"assets/ipad/AIR/ipad-air-64.jpg",
+        "color":"green",
+        "desc": "Chip M1 de Apple , Cámara gran angular de 12 miliamperios, Bateria: 28.668 Wh",
+        "precio":"980"
+    },
+    {
+        "id": 12,
+        "cantidad": 1,
+        "producto": "iPad",
+        "title":"IPAD AIR 64GB",
+        "img":"assets/ipad/AIR/ipad-air-64-2.jpg",
+        "color":"purple",
+        "desc": "Chip M1 de Apple , Cámara gran angular de 12 miliamperios, Bateria: 28.668 Wh  0",
+        "precio":"1000"
+    },
+    {
+        "id": 13,
+        "cantidad": 1,
+        "producto": "iPad",
+        "title":"IPAD AIR 128GB",
+        "img":"assets/ipad/AIR/ipad-air-128.jpg",
+        "color":"pink",
+        "desc": "Chip M1 de Apple , Cámara gran angular de 12 miliamperios, Bateria: 28.668 Wh",
+        "precio":"1000"
+    },
+    {
+        "id": 14,
+        "cantidad": 1,
+        "producto": "iPad",
+        "title":"IPAD AIR 256GB",
+        "img":"assets/ipad/AIR/ipad-air-256.jpg",
+        "color":"blue",
+        "desc": "Chip M1 de Apple , Cámara gran angular de 12 miliamperios, Bateria: 28.668 Wh",
+        "precio":"1200"
+    },
+    {
+        "id": 15,
+        "cantidad": 1,
+        "producto": "iPad",
+        "title":"IPAD MINI 64GB",
+        "img":"assets/ipad/MINI/ipad-mini-64.jpg",
+        "color":"pink",
+        "desc": "Chip A15 Bionic con arquitectura de 64 bits, Cámara gran angular de 12 MP, apertura de ƒ/1.8, iPadOS 15",
+        "precio":"1000"
+    },
+    {
+        "id": 16,
+        "cantidad": 1,
+        "producto": "iPad",
+        "title":"IPAD MINI 128GB",
+        "img":"assets/ipad/MINI/ipad-mini-128.jpg",
+        "color":"purple",
+        "desc": "Chip A15 Bionic con arquitectura de 64 bits, Cámara gran angular de 12 MP, apertura de ƒ/1.8, iPadOS 15",
+        "precio":"1200"
+    },
+    {
+        "id": 17,
+        "cantidad": 1,
+        "producto": "iPad",
+        "title":"IPAD MINI 256GB",
+        "img":"assets/ipad/MINI/ipad-mini-256.jpg",
+        "color":"gold",
+        "desc": "Chip A15 Bionic con arquitectura de 64 bits, Cámara gran angular de 12 MP, apertura de ƒ/1.8, iPadOS 15",
+        "precio":"1300"
+    },
+    {
+        "id": 18,
+        "cantidad": 1,
+        "producto": "iPad",
+        "title":"IPAD PRO 128GB",
+        "img":"assets/ipad/PRO/ipad-pro-128.jpg",
+        "color":"silver",
+        "desc": "Chip M1 de Apple, Cámara ultra gran angular de 12 MP, ángulo de visión de 122, iPadOS 15",
+        "precio":"1200"
+    },
+    {
+        "id": 19,
+        "cantidad": 1,
+        "producto": "iPad",
+        "title":"IPAD PRO 256GB",
+        "img":"assets/ipad/PRO/ipad-pro-256.jpg",
+        "color":"space gray",
+        "desc": "Chip M1 de Apple, Cámara ultra gran angular de 12 MP, ángulo de visión de 122, iPadOS 15",
+        "precio":"1400"
+    },
+    {
+        "id": 20,
+        "cantidad": 1,
+        "producto": "iPad",
+        "title":"IPAD PRO 256GB",
+        "img":"assets/ipad/PRO/ipad-pro-256-2.jpg",
+        "color":"white",
+        "desc": "Chip M1 de Apple, Cámara ultra gran angular de 12 MP, ángulo de visión de 122, iPadOS 15",
+        "precio":"1400"
+    },
+    {
+        "id": 21,
+        "cantidad": 1,
+        "producto": "Macbook",
+        "title":"MACBOOK AIR 64GB",
+        "img":"assets/macbook/AIR/macbook-air-64.jpg",
+        "color":"gold",
+        "desc":"Chip M1 de Apple, Cámara FaceTime HD de 720p, MacOS",
+        "precio":"1450"
+    },
+    {
+        "id": 22,
+        "cantidad": 1,
+        "producto": "Macbook",
+        "title":"MACBOOK AIR 64GB",
+        "img":"assets/macbook/AIR/macbook-air-64-2.jpg",
+        "color":"gold",
+        "desc":"Chip M1 de Apple, Cámara FaceTime HD de 720p, MacOS",
+        "precio":"1450"
+    },
+    {
+        "id": 23,
+        "cantidad": 1,
+        "producto": "Macbook",
+        "title":"MACBOOK AIR 128GB",
+        "img":"assets/macbook/AIR/macbook-air-128.jpg",
+        "color":"silver",
+        "desc":"Chip M1 de Apple, Cámara FaceTime HD de 720p, MacOS",
+        "precio":"1500"
+    },
+    {
+        "id": 24,
+        "cantidad": 1,
+        "producto": "Macbook",
+        "title":"MACBOOK AIR 128GB",
+        "img":"assets/macbook/AIR/macbook-air-128-2.jpg",
+        "color":"silver",
+        "desc":"Chip M1 de Apple, Cámara FaceTime HD de 720p, MacOS",
+        "precio":"1500"
+    },
+    {
+        "id": 25,
+        "cantidad": 1,
+        "producto": "Macbook",
+        "title":"MACBOOK AIR 256GB",
+        "img":"assets/macbook/AIR/macbook-air-256.jpg",
+        "color":"space gray",
+        "desc":"Chip M1 de Apple, Cámara FaceTime HD de 720p, MacOS",
+        "precio":"1560"
+    },
+    {
+        "id": 26,
+        "cantidad": 1,
+        "producto": "Macbook",
+        "title":"MACBOOK PRO 128GB",
+        "img":"assets/macbook/PRO/macbook-pro-128.jpg",
+        "color":"grey",
+        "desc":"Chip M1 de Apple, Cámara FaceTime HD de 1080p, MacOS",
+        "precio":"1500"
+    },
+    {
+        "id": 26,
+        "cantidad": 1,
+        "producto": "Macbook",
+        "title":"MACBOOK PRO 128GB",
+        "img":"assets/macbook/PRO/macbook-pro-128-2.jpg",
+        "color":"grey",
+        "desc":"Chip M1 de Apple, Cámara FaceTime HD de 1080p, MacOS",
+        "precio":"1500"
+    },
+    {
+        "id": 26,
+        "cantidad": 1,
+        "producto": "Macbook",
+        "title":"MACBOOK PRO 128GB",
+        "img":"assets/macbook/PRO/macbook-pro-128-3.jpg",
+        "color":"grey",
+        "desc":"Chip M1 de Apple, Cámara FaceTime HD de 1080p, MacOS",
+        "precio":"1500"
+    },
+    {
+        "id": 27,
+        "cantidad": 1,
+        "producto": "Macbook",
+        "title":"MACBOOK PRO 256GB",
+        "img":"assets/macbook/PRO/macbook-pro-256.jpg",
+        "color":"space gray",
+        "desc":"Chip M1 de Apple, Cámara FaceTime HD de 1080p, MacOS",
+        "precio":"1600"
+    },
+    {
+        "id": 27,
+        "cantidad": 1,
+        "producto": "Macbook",
+        "title":"MACBOOK PRO 256GB",
+        "img":"assets/macbook/PRO/macbook-pro-256-2.jpg",
+        "color":"space gray",
+        "desc":"Chip M1 de Apple, Cámara FaceTime HD de 1080p, MacOS",
+        "precio":"1600"
+    }
+]
